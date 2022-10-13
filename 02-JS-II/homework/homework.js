@@ -50,9 +50,9 @@ function devolverString(str) {
     // Devuelve "true" si las dos strings tienen la misma longitud
     // De lo contrario, devuelve "false"
     // Tu código:
-    return 'str1'.length == 'str2'.length
-  }
-    
+    return str1.length === str2.length
+    }
+  
   function menosQueNoventa(num) {
     // Devuelve "true" si el argumento de la función "num" es menor que noventa
     // De lo contrario, devuelve "false"
